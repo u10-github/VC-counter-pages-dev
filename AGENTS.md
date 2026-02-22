@@ -44,7 +44,11 @@
 - 参照: `ops/skills-observability/README.md`
 
 ## HARNESS-SSOT-BEGIN
-- SSoT: `doc/DoD.md` `doc/evals.md` `doc/runbook.md`
-- 各PRでS1-S3（聖域）影響判定を必須化する。
-- インシデント対応では `doc/runbook.md` + `doc/evals.md`（必要なら `doc/DoD.md`）を同PRで更新する。
+- SSoT:   
+- 聖域定義:
+  - S1: devデータを読み込んで表示できる
+  - S2: 検証用UIで期間切替を確認できる
+  - S3: develop更新で検証環境が更新される
+- 各PRでS1-S3影響判定を必須化する。
+- インシデント対応では  + （必要なら ）を同PRで更新する。
 ## HARNESS-SSOT-END
