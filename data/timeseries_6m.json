@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T01:00:00+09:00",
+  "generated_at": "2026-02-23T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -68,9 +68,9 @@
       "items": []
     },
     {
-      "bucket_type": "day",
+      "bucket_type": "week",
       "start_date": "2026-02-16",
-      "end_date": "2026-02-16",
+      "end_date": "2026-02-22",
       "items": [
         {
           "game": "Crimzon Clover World EXplosion",
@@ -112,6 +112,12 @@
       "bucket_type": "day",
       "start_date": "2026-02-22",
       "end_date": "2026-02-22",
+      "items": []
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-02-23",
+      "end_date": "2026-02-23",
       "items": []
     }
   ]
