@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T01:00:00+09:00",
+  "generated_at": "2026-06-30T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -44,12 +44,6 @@
     },
     {
       "bucket_type": "week",
-      "start_date": "2026-05-25",
-      "end_date": "2026-05-31",
-      "items": []
-    },
-    {
-      "bucket_type": "week",
       "start_date": "2026-06-01",
       "end_date": "2026-06-07",
       "items": []
@@ -70,12 +64,6 @@
       "bucket_type": "week",
       "start_date": "2026-06-22",
       "end_date": "2026-06-28",
-      "items": []
-    },
-    {
-      "bucket_type": "day",
-      "start_date": "2026-06-23",
-      "end_date": "2026-06-23",
       "items": []
     },
     {
@@ -112,6 +100,12 @@
       "bucket_type": "day",
       "start_date": "2026-06-29",
       "end_date": "2026-06-29",
+      "items": []
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-06-30",
+      "end_date": "2026-06-30",
       "items": []
     }
   ]
