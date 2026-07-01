@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T01:00:00+09:00",
+  "generated_at": "2026-07-02T01:00:00+09:00",
   "timezone": "Asia/Tokyo",
   "policy": {
     "recent_daily_days": 7,
@@ -74,12 +74,6 @@
     },
     {
       "bucket_type": "day",
-      "start_date": "2026-06-25",
-      "end_date": "2026-06-25",
-      "items": []
-    },
-    {
-      "bucket_type": "day",
       "start_date": "2026-06-26",
       "end_date": "2026-06-26",
       "items": []
@@ -112,6 +106,12 @@
       "bucket_type": "day",
       "start_date": "2026-07-01",
       "end_date": "2026-07-01",
+      "items": []
+    },
+    {
+      "bucket_type": "day",
+      "start_date": "2026-07-02",
+      "end_date": "2026-07-02",
       "items": []
     }
   ]
